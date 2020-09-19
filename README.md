@@ -1,4 +1,4 @@
-#### Overview
+#### Summary
 On this page we are linking to various material that have to do with our investigations of the origin and evolution of SARS-CoV-2, the virus responsible for the COVID-19 pandemic.
 
 #### Paper - The Proximal Origin of SARS-CoV-2
