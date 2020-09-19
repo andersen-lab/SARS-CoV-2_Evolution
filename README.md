@@ -17,7 +17,7 @@ A [report](https://zenodo.org/record/4028830#.X1922Wj0nIW) from Dr. Li-Meng Yan 
 #### Authenticity of recent SARS-like coronavirus genomes
 We downloaded raw data and reassembled relevant genomes from recently discovered SARS-like coronaviruses from bats and pangolins to assess their authenticity. The analyses show that all the genomes are authentic and as reported in the relevant manuscripts describing their sequencing and assembly.
 
-Data available via [Google Cloud](https://console.cloud.google.com/storage/browser/andersen-lab_project_sars2-proximal-origins;tab=objects?forceOnBucketsSortingFiltering=false&project=andersen-lab-primary&prefix=&forceOnObjectsSortingFiltering=false).
+Data available via [Google Cloud](https://console.cloud.google.com/storage/browser/andersen-lab_project_sars2-proximal-origins).
 
 Summary of the findings with further discussion on [Virological](https://virological.org/t/on-the-veracity-of-ratg13/551).
 
