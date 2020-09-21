@@ -8,6 +8,10 @@ You can access the paper [here](https://andersen-lab.com/papers/andersen-et-al-n
 
 Earlier version also on [Virological](https://virological.org/t/the-proximal-origin-of-sars-cov-2/398).
 
+Very relevant (and technical) [Virological](https://virological.org/t/tackling-rumors-of-a-suspicious-origin-of-ncov2019/384) post by Bill Gallaher about the molecular mechanism of how SARS-CoV-2 gained its furin/polybasic cleavage site.
+
+Another very relevant [Virological](https://virological.org/t/the-sarbecovirus-origin-of-sars-cov-2-s-furin-cleavage-site/536) post by Spyros Lytras about the evolution of the furin/polybasic cleavage site.
+
 #### Refuting the "Yan Report"
 A [report](https://zenodo.org/record/4028830#.X1922Wj0nIW) from Dr. Li-Meng Yan and colleagues came out in September 2020 proposing that SARS-CoV-2 had been created in the lab. This report is one of many examples of conspiracy theories circulating about lab-based scenarios for the proximal origin of SARS-CoV-2. While such scenarios should not be dismissed without inquiry and deserve careful scientific inquiry (as we did in our "Proximal" paper), this particular report is entirely unsupported, non-scientific, and appear to have been created to support baseless conspiracy theories.
 
