@@ -4,7 +4,7 @@ On this page we are linking to various material that have to do with our investi
 #### Paper - The Proximal Origin of SARS-CoV-2
 This short peer-reviewed article in [Nature Medicine](https://www.nature.com/articles/s41591-020-0820-9) summarizes our scientific investigations into the proximal origins of SARS-CoV-2. Due to constraints on article format, many references could not be included, and experimental details were limited. We deeply investigated both natural and artificial scenarios for the proximal origin of SARS-CoV-2. Our analyses strongly support a natural origin of the virus and all the data are fully consistent with evolutionary processes having led to the emergence of SARS-CoV-2 in the human population.
 
-This study was motivated by high-level concerns about potential lab origins of the virus, decade-long research in Wuhan on bat coronaviruses, and, of course, scientific curiosity of how this virus likely came to be. There was also a separate call from the [White House OSTP](https://www.nationalacademies.org/news/2020/02/national-academies-provide-rapid-response-to-white-house-on-coronavirus-data-needs) to understand this question better.
+This study was motivated by high-level concerns about potential lab origins of the virus, decade-long research in Wuhan on bat coronaviruses, and, of course, scientific curiosity of how this virus likely came to be. There was also a separate call from the [White House OSTP](https://www.nationalacademies.org/news/2020/02/national-academies-provide-rapid-response-to-white-house-on-coronavirus-data-needs) to understand this question better, which was initiated in response to our early analyses.
 
 The two main features that caught our eye as we started these analyses were the receptor binding domain (RBD) in SARS-CoV-2 and the polybasic (furin) cleavage site between the S1 and S2 subunits (and associated predicted O-linked glycans). 
 
@@ -21,6 +21,12 @@ Very relevant (and technical) [Virological](https://virological.org/t/tackling-r
 Another very relevant [Virological](https://virological.org/t/the-sarbecovirus-origin-of-sars-cov-2-s-furin-cleavage-site/536) post by Spyros Lytras about the evolution of the furin/polybasic cleavage site.
 
 A detailed dissection of the evolution of furin cleavage sites across the coronavirus family from Bob Garry and Bill Gallaher on [Virological](https://virological.org/t/naturally-occurring-indels-in-multiple-coronavirus-spikes/560).
+
+A followup study on [Virological](https://virological.org/t/spike-protein-sequences-of-cambodian-thai-and-japanese-bat-sarbecoviruses-provide-insights-into-the-natural-evolution-of-the-receptor-binding-domain-and-s1-s2-cleavage-site/622) looking at the many SARS-CoV-2 related viruses identified in diverse populations of bats, spread over large geographical areas.
+
+
+#### Summary of the WHO report on the "Global Study of Origins of SARS-CoV-2"
+I reanalyzed a lot of the data from the WHO report, which provided additional details of the early epidemic in Wuhan, including showing that the Huanan seafood market was the early epicenter and that SARS-CoV-2 was not widely circulating prior to the detection of the pandemic. I summarized all the main findings in this longer [Twitter thread](https://twitter.com/K_G_Andersen/status/1376954932004196352?s=20).
 
 
 #### Refuting the "Yan Report"
