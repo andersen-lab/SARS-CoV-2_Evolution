@@ -42,6 +42,8 @@ Data available via [Google Cloud](https://console.cloud.google.com/storage/brows
 
 Summary of the findings with further discussion on [Virological](https://virological.org/t/on-the-veracity-of-ratg13/551).
 
+In response to concerns raised to a paper published in PLOS Pathogens (Liu et al.), I performed a separate (and more in-depth) analysis for MP789 with the same results. Data and conclusion can be found via [Google Cloud](https://console.cloud.google.com/storage/browser/andersen-lab_project_sars2-proximal-origins/assemblies_MT121216?project=andersen-lab-primary).
+
 #### Snakes not the reservoir of SARS-CoV-2
 Early on in the pandemic it was suggested that snakes served as the reservoir of SARS-CoV-2. This conclusion was based on very naive and entirely wrong analyses. More in-depth analyses clearly show that snakes are unlikely to be the reservoir for the virus.
 
