@@ -14,7 +14,7 @@ When we performed our analyses, the polybasic cleavage site we identified was pr
 
 You can access of Nature Medicine the paper [here](https://andersen-lab.com/papers/andersen-et-al-nature-medicine-2020/).
 
-Earlier version also on [Virological](https://virological.org/t/the-proximal-origin-of-sars-cov-2/398).
+Earlier version also on [Virological](https://web.archive.org/web/20200217170645/https://virological.org/t/the-proximal-origin-of-sars-cov-2/398).
 
 Very relevant (and technical) [Virological](https://virological.org/t/tackling-rumors-of-a-suspicious-origin-of-ncov2019/384) post by Bill Gallaher about the molecular mechanism of how SARS-CoV-2 gained its furin/polybasic cleavage site.
 
