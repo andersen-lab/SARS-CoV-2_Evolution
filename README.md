@@ -2,11 +2,9 @@
 On this page we are linking to various material that have to do with our investigations of the origin and evolution of SARS-CoV-2, the virus responsible for the COVID-19 pandemic.
 
 #### Key Papers
-The Proximal Origin of SARS-CoV-2
-[Nature Medicine, 2020](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
+[The Proximal Origin of SARS-CoV-2 - Nature Medicine, 2020](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
 
-The Origins of SARS-CoV-2: A Critical Review
-[Cell, 2021](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
+[The Origins of SARS-CoV-2: A Critical Review - Cell, 2021](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
 
 #### Q&A about Fauci emails and early origin investigations
 I did a Q&A with the New York Times to explain some of the key questions about my emails with Dr. Fauci and our early investigations into the origins of SARS-CoV-2. You can read the Q&A [here](https://www.nytimes.com/2021/06/14/science/covid-lab-leak-fauci-kristian-andersen.html).
