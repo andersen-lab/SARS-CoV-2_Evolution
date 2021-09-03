@@ -1,6 +1,16 @@
 #### Summary
 On this page we are linking to various material that have to do with our investigations of the origin and evolution of SARS-CoV-2, the virus responsible for the COVID-19 pandemic.
 
+#### Key Papers
+The Proximal Origin of SARS-CoV-2
+[Nature Medicine, 2020](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
+
+The Origins of SARS-CoV-2: A Critical Review
+[Cell, 2021](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
+
+#### Q&A about Fauci emails and early origin investigations
+I did a Q&A with the New York Times to explain some of the key questions about my emails with Dr. Fauci and our early investigations into the origins of SARS-CoV-2. You can read the Q&A [here](https://www.nytimes.com/2021/06/14/science/covid-lab-leak-fauci-kristian-andersen.html).
+
 #### Paper - The Proximal Origin of SARS-CoV-2
 This short peer-reviewed article in [Nature Medicine](https://www.nature.com/articles/s41591-020-0820-9) summarizes our scientific investigations into the proximal origins of SARS-CoV-2. Due to constraints on article format, many references could not be included, and experimental details were limited. We deeply investigated both natural and artificial scenarios for the proximal origin of SARS-CoV-2. Our analyses strongly support a natural origin of the virus and all the data are fully consistent with evolutionary processes having led to the emergence of SARS-CoV-2 in the human population.
 
@@ -26,13 +36,13 @@ A followup study on [Virological](https://virological.org/t/spike-protein-sequen
 
 
 #### Summary of the WHO report on the "Global Study of Origins of SARS-CoV-2"
-I reanalyzed a lot of the data from the WHO report, which provided additional details of the early epidemic in Wuhan, including showing that the Huanan seafood market was the early epicenter and that SARS-CoV-2 was not widely circulating prior to the detection of the pandemic. I summarized all the main findings in this longer [Twitter thread](https://twitter.com/K_G_Andersen/status/1376954932004196352?s=20).
+I reanalyzed a lot of the data from the WHO report, which provided additional details of the early epidemic in Wuhan, including showing that the Huanan seafood market was the early epicenter and that SARS-CoV-2 was not widely circulating prior to the detection of the pandemic. I summarized all the main findings in this longer [Archived Twitter thread](https://web.archive.org/web/20210330175029/https://twitter.com/K_G_Andersen/status/1376954932004196352).
 
 
 #### Refuting the "Yan Report"
 A [report](https://zenodo.org/record/4028830#.X1922Wj0nIW) from Dr. Li-Meng Yan and colleagues came out in September 2020 proposing that SARS-CoV-2 had been created in the lab. This report is one of many examples of conspiracy theories circulating about lab-based scenarios for the proximal origin of SARS-CoV-2. While such scenarios should not be dismissed without inquiry and deserve careful scientific inquiry (as we did in our "Proximal" paper), this particular report is entirely unsupported, non-scientific, and appear to have been created to support baseless conspiracy theories.
 
-[Twitter thread](https://twitter.com/K_G_Andersen/status/1306037072914866178?s=20) outlining the issues with the Yan Report.
+[Archived Twitter thread](https://web.archive.org/web/20210511050718/https://twitter.com/K_G_Andersen/status/1306037072914866178) outlining the issues with the Yan Report.
 
 
 #### Authenticity of recent SARS-like coronavirus genomes
