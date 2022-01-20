@@ -32,16 +32,16 @@ A followup study on [Virological](https://virological.org/t/spike-protein-sequen
 #### Q&A about Fauci emails and early origin investigations
 I did a Q&A with the New York Times to explain some of the key questions about my emails with Dr. Fauci and our early investigations into the origins of SARS-CoV-2. You can read the Q&A [here](https://www.nytimes.com/2021/06/14/science/covid-lab-leak-fauci-kristian-andersen.html). Update: Recent conspiracy theories have suggested that our scientific investigations were influenced by "politics" and "preferred narratives" from Drs. Fauci, Farrar, and others. Such suggestions are false. Other conspiracy theories have suggested that we were awarded a grant from NIAID (our [WARN-ID center](https://warn-id.org/)) because of "preferred conclusions" in our Proximal Origin paper. Such suggestions are also false (and the grant was reviewed, scored, and ranked for funding in 2019 - prior to the pandemic).
 
-
 #### Summary of the WHO report on the "Global Study of Origins of SARS-CoV-2"
 I reanalyzed a lot of the data from the WHO report, which provided additional details of the early epidemic in Wuhan, including showing that the Huanan seafood market was the early epicenter and that SARS-CoV-2 was not widely circulating prior to the detection of the pandemic. I summarized all the main findings in this longer [Twitter thread](https://twitter.com/K_G_Andersen/status/1376954932004196352).
 
+#### The SARS-CoV-2 furin cleavage site
+It has been suggested that the furin cleavage site observed in SARS-CoV-2 is suggestive of the virus being engineered. As I lay out in [this Twitter thread](https://twitter.com/K_G_Andersen/status/1391507230848032772?s=20), that notion is incorrect.
 
 #### Refuting the "Yan Report"
 A [report](https://zenodo.org/record/4028830#.X1922Wj0nIW) from Dr. Li-Meng Yan and colleagues came out in September 2020 proposing that SARS-CoV-2 had been created in the lab. This report is one of many examples of conspiracy theories circulating about lab-based scenarios for the proximal origin of SARS-CoV-2. While such scenarios should not be dismissed without inquiry and deserve careful scientific inquiry (as we did in our "Proximal" paper), this particular report is entirely unsupported, non-scientific, and appear to have been created to support baseless conspiracy theories.
 
 [Archived Twitter thread](https://web.archive.org/web/20210511050718/https://twitter.com/K_G_Andersen/status/1306037072914866178) outlining the issues with the Yan Report.
-
 
 #### Authenticity of recent SARS-like coronavirus genomes
 We downloaded raw data and reassembled relevant genomes from recently discovered SARS-like coronaviruses from bats and pangolins to assess their authenticity. The analyses show that all the genomes are authentic and as reported in the relevant manuscripts describing their sequencing and assembly.
