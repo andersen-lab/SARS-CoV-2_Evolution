@@ -2,9 +2,13 @@
 On this page we are linking to various material that have to do with our investigations of the origin and evolution of SARS-CoV-2, the virus responsible for the COVID-19 pandemic.
 
 #### Key Papers
-[The Proximal Origin of SARS-CoV-2 - Nature Medicine, 2020](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
+[The Proximal Origin of SARS-CoV-2 - Nature Medicine, 2020](https://andersen-lab.com/papers/andersen-et-al-nature-medicine-2020/)
 
-[The Origins of SARS-CoV-2: A Critical Review - Cell, 2021](https://www.sciencedirect.com/science/article/pii/S0092867421009910)
+[The Origins of SARS-CoV-2: A Critical Review - Cell, 2021](https://andersen-lab.com/papers/holmes-et-al-cell-2021/)
+
+[The Huanan Seafood Wholesale Market in Wuhan Was the Early Epicenter of the COVID-19 Pandemic - Science, 2022](https://andersen-lab.com/papers/worobey-et-al-2022/)
+
+[The Molecular Epidemiology of Multiple Zoonotic Origins of SARS-CoV-2 - Science, 2022](https://andersen-lab.com/papers/pekar-et-al-2022/)
 
 #### Paper - The Proximal Origin of SARS-CoV-2
 This short peer-reviewed article in [Nature Medicine](https://www.nature.com/articles/s41591-020-0820-9) summarizes our scientific investigations into the proximal origins of SARS-CoV-2. Due to constraints on article format, many references could not be included, and experimental details were limited. We deeply investigated both natural and artificial scenarios for the proximal origin of SARS-CoV-2. Our analyses strongly support a natural origin of the virus and all the data are fully consistent with evolutionary processes having led to the emergence of SARS-CoV-2 in the human population.
